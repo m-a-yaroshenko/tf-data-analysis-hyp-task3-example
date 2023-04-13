@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy as np
 from scipy.stats import ttest_ind
-import math
-import scipy.stats
 
 chat_id = 257112106 # Ваш chat ID, не меняйте название переменной
 
